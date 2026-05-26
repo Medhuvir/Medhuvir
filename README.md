@@ -38,17 +38,6 @@ I specialize in contextual AI design, platform UX, and DesignOps. Currently expl
 - Scaled design team from ground zero; hired and onboarded 10-15 specialists (UX, content, multimedia, strategy)
 - Led enterprise-wide rebrand unifying visual identity across all digital and physical touchpoints
 
-**Multimedia Designer & Supervisor** — DealerTrack / Chrome Data Solutions (Oct 2008 – Oct 2014)
-- Team of 10 | Agency and 3D artist resource management
-- Built and led visual production and UX design for Chrome Accessories product across GM, Chrysler, Fiat
-- **HTML5 Vehicle Configurator:** Architected and launched automotive industry's first HTML5 vehicle configurator and accessory portal; set new standard for interactive dealer tooling
-- **VIN-Scan-to-Build:** Launched dealer web application enabling VIN-scan-to-custom-build experiences, reducing sales friction
-- Scaled design team from 2 to 10; established workflows, hiring pipeline, onboarding, craft standards
-- Managed hybrid on-site and remote team of designers and 3D artists
-
-**Digital Graphic Designer** — OpenLink Financial (Sep 2006 – Oct 2007)
-- Designed UI wireframes, interaction patterns, iconography for enterprise financial software
-- Cross-functional work with development, sales, marketing on visual consistency across digital and print
 
 ## Core Skills
 
@@ -81,13 +70,6 @@ I specialize in contextual AI design, platform UX, and DesignOps. Currently expl
 - Video production and cinematography
 - AI-enabled video and generative media
 - Brand storytelling and visual art direction
-
-## Education & Certifications
-
-- Visual Communications and Marketing, Nassau Community College
-- Agile SAFe Certified
-- Cooper Design Leadership Certification
-- IDEO Design Thinking
 
 ## Connect
 
