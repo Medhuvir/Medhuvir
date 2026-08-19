@@ -8,7 +8,7 @@ I work at the intersection of AI-augmented product design, platform UX, and Desi
 
 | Area | Proof Point |
 |------|------------|
-| **AI Product Design** | LIV (Prudential's D2C retirement platform): 6 CX industry awards, shipped 0-to-1 in 12 months |
+| **AI Product Design** | Agentic Core UX Services @ Google , LIV (Prudential's D2C retirement platform): 6 CX industry awards, shipped 0-to-1 in 12 months |
 | **Design Systems** | Northwell Health: architected first design language, consolidated 37 microsites to unified domain, WCAG 2.1 baseline |
 | **Team & Budget** | Scaled from 0 to 15+ designers (Northwell); 8 to 16 Agile teams at Prudential (+45% throughput). Managed $4M+ annual budget |
 | **Product Velocity** | Chrome vehicle configurator (automotive industry first). PruXpress redesign (+15 NPS in 12 months) |
