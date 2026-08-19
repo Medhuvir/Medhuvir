@@ -1,9 +1,8 @@
 # Greetings! I'm Dan 🖖
 
-**Director, Experience Design** building human-centered AI products and design organizations at enterprise scale. 15+ years across fintech, healthtech, and SaaS. Fractional Head of Design and pursuing full-time Head of Design / CDO roles.
+**UX Leader, Builder & Designer** building human-centered AI products and design organizations at enterprise scale. 15+ years across fintech, healthtech, and SaaS. Fractional Head of Design and pursuing full-time Head of Design / CDO roles.
 
-I work at the intersection of AI-augmented product design, platform UX, and DesignOps. Launched Prudential's first AI product (6 CX awards). Built Northwell's design organization and system across 37+ digital properties. Currently running DN Creative LLC.
-
+I work at the intersection of AI-augmented product design, platform UX, and DesignOps. Launched Prudential's first AI product (6 CX awards). Built Northwell's design organization and system across 37+ digital properties. Currently Staff UX @ Google (Core UX/Finance)
 ## What I've Built
 
 | Area | Proof Point |
@@ -18,7 +17,7 @@ I work at the intersection of AI-augmented product design, platform UX, and Desi
 
 15+ years in enterprise design. Director roles at Prudential (2022-2026) and Northwell Health (2014-2022). Started as multimedia designer at DealerTrack, scaled to design leadership. SAFe and Cooper Design Leadership certified.
 
-Core: human-centered AI design, enterprise platform UX, design systems, organizational design, DesignOps. Tools: Figma, Adobe Suite, LLMs (Claude, ChatGPT, Copilot), AI video (Runway, Sora).
+Core: human-centered AI design, enterprise platform UX, design systems, organizational design, DesignOps. Tools: Figma, Adobe Suite, LLMs (Claude, ChatGPT, Antigravity).
 
 ## Connect
 
