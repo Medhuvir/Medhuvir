@@ -1,4 +1,4 @@
-<a href="https://dncreative.studio"><img src="assets/banner.png" alt="Dan Nemirovsky — I design agents that ask before they act." width="100%"></a>
+<a href="https://dncreative.studio"><img src="assets/banner.png" alt="Dan Nemirovsky — Enterprise AI, minus the surprises." width="100%"></a>
 
 <br>
 
