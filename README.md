@@ -24,7 +24,7 @@ The through-line: **trust is a UX surface.** Show the reasoning, scope the auton
 
 ## `02` · MIMIR·OS — THE NIGHT SHIFT
 
-<img src="assets/projects/mimir-hud.jpg" alt="MIMIR·OS live HUD: services, vitals, schedules and agent decisions" width="100%">
+<img src="assets/projects/mimir-hud.gif" alt="MIMIR·OS live HUD: services, vitals, schedules and agent decisions" width="100%">
 
 **A personal AI operating system on one Mac mini.** Mail, calendar, media, voice and hardware, run by a local-first agent that asks before it acts. Every decision it makes lands in a ledger (`ASK` → `SEEN` → `DISPATCH`) so I can see what it wanted to do, not just what it did.
 
